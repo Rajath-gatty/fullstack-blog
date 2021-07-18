@@ -1,0 +1,6 @@
+[submodule "mern-blog-client"]
+	path = mern-blog-client
+	url = https://github.com/Rajath-gatty/mern-blog-client.git
+[submodule "mern-blog12"]
+	path = mern-blog12
+	url = https://git.heroku.com/mern-blog12.git
